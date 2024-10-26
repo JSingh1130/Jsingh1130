@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **node, react**
+- 💬 Ask me about **node, react , SQL , Python **
 
 - 📫 How to reach me **jatinjot28@gmail.com**
 
